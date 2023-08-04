@@ -10,10 +10,10 @@ Soy un diseñador gráfico con una sólida formación en programación. Mi pasi�
 
 Estoy siempre interesado/a en colaboraciones y oportunidades emocionantes. Si deseas contactarme para hablar sobre un proyecto, discutir una idea o simplemente decir hola, no dudes en enviarme un mensaje.
 
-Email: __*tu@email.com*__ 📧
+Email: __*gianw4gner@gmail.com*__ 📧
 
-Sitio web: __*www.tusitio.com*__ 🌐
+Sitio web: __*www.gianemanuelwagner.com*__ 🌐
 
-LinkedIn: __*Nombre en LinkedIn*__ 💼
+LinkedIn: __*Gian Wagner*__ 💼
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos. ¡Espero saber de ti pronto! 😃
