@@ -1,4 +1,4 @@
 - 👋 Hola, soy @gianemanuelwagner
 - 👀 Me interesa el diseño gráfico y la programación
 - 🌱 Actualmente estoy aprendiendo nuevos lenguajes
-- 📫 Como contactarme web
+- 📫 Como contactarme en gianw4gner@gmail.com
