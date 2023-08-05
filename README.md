@@ -14,7 +14,7 @@ Email: __*gianw4gner@gmail.com*__ 📧
 
 Sitio web: __*www.gianemanuelwagner.com*__ 🌐
 
-LinkedIn: __*Gian Wagner*__ 💼
+LinkedIn: __*www.linkedin.com/in/gianwagner*__ 💼
 
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos. ¡Espero saber de ti pronto! 😃
